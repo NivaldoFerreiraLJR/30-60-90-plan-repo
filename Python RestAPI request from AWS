@@ -1,5 +1,0 @@
-import requests
-response = requests.get("https://pwkel4erdl.execute-api.us-east-2.amazonaws.com")
-response.json()
-
-# this should give an "access denied" response
